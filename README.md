@@ -16,8 +16,8 @@ Piles et files - mimos
 Fonctions récursives
 
 2 algos : 
-1er = reverse
-2e = tour de hanoi avec X cont et N silots
+- 1er = reverse
+- 2e = tour de hanoi avec X cont et N silots
 
 
 Système formel à présenter
