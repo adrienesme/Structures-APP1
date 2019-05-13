@@ -1,3 +1,10 @@
+Le but est de transférer les X conteneurs dans le Nième silo en passant par le silo temporaire et les autres qui agiront comme tampons.
+
+Elements à utiliser :
+- Piles et files
+- Fonctions récursives 
+
+
 silo principal : au dessus de la surface, avec les + rad vers le haut
 les autres : sous la surface, les + rad vers le bas 
 
@@ -14,3 +21,9 @@ Fonctions récursives
 
 
 Système formel à présenter
+
+Rôles :
+- Aurélien : tube iniial
+- Camille : silo temporaire
+- Davis & Vicoire : hanoï
+- Arien : Synthèse 
